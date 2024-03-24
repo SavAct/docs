@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "SavAct Docs"
   text: "For Developers"
-  tagline: Real world solutions for blockchain
+  tagline: Real world solutions on blockchain
 #   actions:
 #     - theme: brand
 #       text: Markdown Examples
